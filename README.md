@@ -6,3 +6,4 @@ Olá seja bem vindo ao meu livro de receitas. Aqui você encontra as receitas ma
 
 * Strogonoff de Frango.
 * Panqueca de Franco com Queijo.
+* Torta de Salsicha.
